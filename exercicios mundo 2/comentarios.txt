@@ -1,0 +1,10 @@
+*****MUNDO 2******
+aula 12
+
+-condicoes aninhadas
+se ->if:(um ou nenhum)
+bloco 1
+senão se -> elif: (varios)
+bloco 2
+senão -> else:
+bloco 3
