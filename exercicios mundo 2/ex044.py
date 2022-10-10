@@ -15,7 +15,7 @@ if pag == '3':
     if n2 > 2 :
         juros = preco + (preco * 0.20)
         parc = juros / n2
-        print(f'A sua compra deu R$ {preco} com pagamento em {n2}X vezes de {parc} ficou em R$ {juros}')
+        print(f'A sua compra deu R$ {preco} com pagamento em {n2}X vezes de R$ {parc} ficou em R$ {juros}')
 elif pag == '1' :
     print(f'Sua compra de R$ {preco} com 10% de desconto ficou R$ {dinheiro}')
 elif pag == '2' :

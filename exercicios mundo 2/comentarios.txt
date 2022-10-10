@@ -8,3 +8,9 @@ senão se -> elif: (varios)
 bloco 2
 senão -> else:
 bloco 3
+
+aula 13 
+
+for C in range (0,6) pra frente ou (6, 0, -1) ao contrario ou (0, 7, 2) conta até 6 de 2 wm dois
+    print (c)
+print ('FIM')ex 
